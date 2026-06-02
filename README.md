@@ -200,7 +200,7 @@ It is recommended to record for at least one second.
 
 ```text
 system-audio-recorder/
-├── system_audio_recorder.py
+├── script.py
 ├── README.md
 ├── LICENSE
 └── recordings/
